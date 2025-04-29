@@ -2,7 +2,13 @@
 # ✨ About Me
 
 
-I'm an electrical engineer turned software developer and aspiring startup founder. With a background in hardware and software projects, I have experience in automation, radio network optimization and hardware design. Passionate about **AI, hardware, and innovative problem-solving**. I'm currently working on my startup while engaging in hackathons.
+I'm an electrical engineer turned software developer and aspiring startup founder. With a background in hardware and software projects, I have experience in developing internal automation systems using Python and microservices, radio network optimization, and hardware design. Passionate about **AI, hardware, and innovative problem-solving**. I'm currently working on my startup while engaging in hackathons.
+
+I have two dreams that I’m working on full time to influence:
+
+- **Developing a technical solution for the measurement and early diagnosis of scoliosis based on muscle state, so that "idiopathic scoliosis" no longer exists.
+
+- **Achieving equal education for girls in tech—so that every girl knows she has the potential and technical mindset to succeed, and that STEM is not just for boys.
 
 ```yaml
 name: Ainur
