@@ -6,9 +6,9 @@ I'm an electrical engineer turned software developer and aspiring startup founde
 
 I have two dreams that I’m working on full time to influence:
 
-- **Developing a technical solution for the measurement and early diagnosis of scoliosis based on muscle state, so that "idiopathic scoliosis" no longer exists.
+- Developing a technical solution for the measurement and early diagnosis of scoliosis based on muscle state, so that "idiopathic scoliosis" no longer exists.
 
-- **Achieving equal education for girls in tech—so that every girl knows she has the potential and technical mindset to succeed, and that STEM is not just for boys.
+- Achieving equal education for girls in tech—so that every girl knows she has the potential and technical mindset to succeed, and that STEM is not just for boys.
 
 ```yaml
 name: Ainur
