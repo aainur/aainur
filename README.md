@@ -6,10 +6,10 @@ I'm an electrical engineer turned software developer and aspiring startup founde
 
 ```yaml
 name: Ainur
-located_in: Budapest, Hungary
+located_in: Almaty, Kazakhstan
 from: Kazakhstan
 job: Startup Founder 
-education: Bachelor's in Electrical Engineering
+education: Bachelor's in Electrical Engineering @ BME
 experiences:
   - ["Software Engineer", "@ Ericsson"]
   - ["Radio Network Optimization & Automation Engineer", "@ Telecom Consulting"]
