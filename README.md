@@ -2,7 +2,7 @@
 # ✨ About Me
 
 
-I'm an electrical engineer turned software developer and aspiring startup founder. With a background in hardware and software projects, I have experience in developing internal automation systems using Python and microservices, radio network optimization, and hardware design. Passionate about **AI, hardware, and innovative problem-solving**. I'm currently working on my startup while engaging in hackathons.
+I'm an electrical engineer turned software developer and aspiring startup founder. With a background in hardware and software projects, I have experience in developing internal automation systems using Python and microservices, radio network optimization, and hardware design. Passionate about **AI, hardware, and innovative problem-solving**.
 
 ```yaml
 name: Ainur
