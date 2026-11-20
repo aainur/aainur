@@ -8,13 +8,13 @@ I'm an electrical engineer turned software developer. With a background in hardw
 name: Ainur
 located_in: Almaty, Kazakhstan
 from: Kazakhstan
-job: Engineering Program Coordinator @ inVision U
+job: Engineering Program Coordinator, Lecturer, Lab Head @ inVision U
 education: Bachelor's in Electrical Engineering @ BME
 experiences:
   - ["Software Engineer", "@ Ericsson"]
   - ["Radio Network Optimization & Automation Engineer", "@ Telecom Consulting"]
-fields_of_interests: ["Automation", "Startups", "Data-Driven Decision Making", "AI Safety"]
-currently_upskilling_in: ["Startup Growth", "AI & Machine Learning", "Investing"]
+fields_of_interests: ["Automation", "Data-Driven Decision Making", "AI Safety"]
+currently_upskilling_in: ["Design Engineering"]
 hobbies: ["Running", "Hackathons", "Crypto Investment"]
 ```
 ## 🌐 Socials:
